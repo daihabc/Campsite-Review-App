@@ -1,0 +1,47 @@
+.btn {
+    color: white !important;
+    background-color: #5383A3 !important;
+    border-color: #5383A3 !important;
+}
+
+.footer,.navbar {
+    background-color: #daad86 !important;
+}
+
+.newCampBtn {
+    color: #5383A3 !important;
+}
+
+.btn-outline-primary {
+    color: #212529 !important;
+    background-color: #5383A3 !important;
+    border-color: #5383A3 !important;
+}
+
+.thumbnail-img {
+    display: block;
+    overflow: hidden;
+    height: 300px;
+    width: 450px;
+    object-fit: scale-down;
+}
+
+#campgroundCarousel{
+    height: 400px;
+    overflow: hidden;
+}
+
+.carousel-item {
+    overflow: hidden;
+    object-fit: scale-down;
+    object-position: center;
+}
+
+.carousel-img {
+    display: block;
+    overflow: hidden;
+    height: 450px;
+    width: 450px;
+    object-fit: scale-down;
+} 
+
