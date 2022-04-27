@@ -1,3 +1,4 @@
+## YelpCamp
 Deployed application is available at https://yelp-camp-xhd.herokuapp.com/.
 
 YelpCamp was built as the capstone project of Colt Steele’s web development course on Udemy. It provides a platform to share and exchange information about campsites.
